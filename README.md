@@ -37,6 +37,7 @@ If you have a contribution, please fork and send a pull request.
 - [AIDA64 7.20.6802](https://www.aida64.com/downloads/ZjNkZTY2ZDQ=)
 - [AIDA64 downloads archive](https://www.aida64.com/downloads/archive)
 
+![screenshot](assets/Untitled.png)
 ## Authors
 
 - [@upioneer](https://www.github.com/upioneer)
